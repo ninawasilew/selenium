@@ -6,4 +6,4 @@ C:\Users\j3was>venvs\demoenv36\Scripts\activate
 from selenium import webdriver
 browser = webdriver.Chrome()
 
-browser.get('https:\\techstepacademy.com/training-ground')
+browser.get('https://techstepacademy.com/training-ground')
